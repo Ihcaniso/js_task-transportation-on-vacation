@@ -4,7 +4,7 @@
  * @param {number} days - Number of days the car is rented
  * @return {number} - Total cost after applying discounts
  */
-//write code here
+// write code here
 function calculateRentalCost(days) {
   const DAILY_RATE = 40;
   const SHORT_TERM = 3;
